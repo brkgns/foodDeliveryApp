@@ -32,7 +32,6 @@ API
 
 <img width="484" alt="Ekran Resmi 2022-09-15 18 11 04" src="https://u<img width="484" alt="Ekran Resmi 2022-09-15 18 11 10" src="https://user-images.githubusercontent.com/105736424/190444041-d5f12995-f04b-4ec5-b352-3c0b8041abe4.png">
 
-ser-images.githubusercontent.com/105736424/190444000-7c1c2f0f-f451-4f47-b4c8-fa79c1a9e44c.png">
 
 <img width="484" alt="Ekran Resmi 2022-09-15 18 11 19" src="https://user-images.githubusercontent.com/105736424/190444108-34a3b602-8385-4fb8-a82f-af0b5ab9f46d.png">
 
