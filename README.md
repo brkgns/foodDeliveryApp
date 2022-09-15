@@ -4,18 +4,18 @@
 -Hello everyone, We made a food delivery application with the APIs given as a graduation homework in our camp, and we also shot a video in line with the requests.
 
 -Swift:
-Delegate
-Datasource
-Protocol
-Tableview
-Searchbar
-Alert
+Delegate,
+Datasource,
+Protocol,
+Tableview,
+Searchbar,
+Alert.
 
 -Architectural Design:
-Viper
+Viper.
 
 -Database:
-API
+API,Alamofire
 
 <img width="484" alt="Ekran Resmi 2022-09-15 18 10 05" src="https://user-images.githubusercontent.com/105736424/190443508-d196caa8-b96c-452a-b7ca-f73eda832f0f.png">
 
